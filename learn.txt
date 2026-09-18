@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[9721,["177","static/chunks/app/layout-79fff3ad27f5e65a.js"],"DynamicThemeColor"]
+3:I[9766,[],""]
+4:I[9567,["39","static/chunks/app/error-bdb877d48cbbc6a0.js"],"default"]
+5:I[8924,[],""]
+6:I[9021,["177","static/chunks/app/layout-79fff3ad27f5e65a.js"],""]
+7:I[1959,[],"ClientPageRoot"]
+8:I[9000,["780","static/chunks/780-c772fd2c9d9d5084.js","1","static/chunks/1-368741860c6f9885.js","459","static/chunks/app/learn/page-c853b7e30f2e2783.js"],"default"]
+b:I[4431,[],"OutletBoundary"]
+d:I[5278,[],"AsyncMetadataOutlet"]
+f:I[4431,[],"ViewportBoundary"]
+11:I[4431,[],"MetadataBoundary"]
+12:"$Sreact.suspense"
+14:I[8731,["219","static/chunks/app/global-error-2fe851801c8d3d3c.js"],"default"]
+:HL["/_next/static/media/636a5ac981f94f8b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/1ca8bd8828ae5cf5.css","style"]
+0:{"P":null,"b":"2W0WURHFvWQOyp9G54cQb","p":"","c":["","learn"],"i":false,"f":[[["",{"children":["learn",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1ca8bd8828ae5cf5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"h-full bg-white","children":[["$","head",null,{"children":[["$","meta",null,{"name":"theme-color","content":"#2e04f8"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta",null,{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta",null,{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}]]}],["$","body",null,{"className":"__className_a11773 antialiased","suppressHydrationWarning":true,"children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex flex-col items-center justify-center min-h-screen","children":["$","h1",null,{"children":"404 - Page Not Found"}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L6",null,{"src":"/pwa.js","strategy":"lazyOnload"}]]}]]}]]}],{"children":["learn",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L7",null,{"Component":"$8","searchParams":{},"params":{},"promises":["$@9","$@a"]}],null,["$","$Lb",null,{"children":["$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L11",null,{"children":["$","div",null,{"hidden":true,"children":["$","$12",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+9:{}
+a:"$0:f:0:1:2:children:2:children:1:props:children:0:props:params"
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#2e04f8"}]]
+c:null
+e:{"metadata":[["$","title","0",{"children":"EduRise"}],["$","meta","1",{"name":"description","content":"EduRise mobile learning platform with Breacher authentication, course creation, secure checkout, and enrolled course learning dashboard."}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"property":"og:title","content":"EduRise"}],["$","meta","4",{"property":"og:description","content":"EduRise mobile learning platform with Breacher authentication, course creation, secure checkout, and enrolled course learning dashboard."}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","7",{"name":"twitter:title","content":"EduRise"}],["$","meta","8",{"name":"twitter:description","content":"EduRise mobile learning platform with Breacher authentication, course creation, secure checkout, and enrolled course learning dashboard."}]],"error":null,"digest":"$undefined"}
+13:"$e:metadata"

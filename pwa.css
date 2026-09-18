@@ -1,0 +1,75 @@
+/* Reset & Universal Overrides */
+.install-app-modal * {
+  box-shadow: none !important;
+}
+
+/* Modal Container Base - Mobile Default (< 768px): Floating at bottom */
+.install-app-modal {
+  position: fixed;
+  z-index: 9999;
+  width: 320px;
+  max-width: calc(100vw - 1em);
+  bottom: 0.5em;
+  left: 0.5em;
+  right: 0.5em;
+  top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
+}
+
+.install-app-modal.hidden-prompt {
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(20px);
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .install-app-modal {
+    bottom: 0.5em;
+    right: 0.5em;
+    left: auto;
+    top: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (min-width: 1024px) {
+  .install-app-modal {
+    top: 0.5em;
+    right: 0.5em;
+    left: auto;
+    bottom: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+.install-btn-accent {
+  background-color: var(--theme-accent, #4e352d);
+}
+
+.install-btn-accent:hover {
+  filter: brightness(1.1);
+}
+
+.install-btn-accent:active {
+  transform: scale(0.98);
+}
+
+/* Universal Floating Bottom Nav rule for static exports and mobile PWA */
+#floatingBottomNav,
+.floating-bottom-nav-fixed {
+  position: fixed !important;
+  bottom: max(1.5em, calc(1.5em + env(safe-area-inset-bottom, 0px))) !important;
+  left: 1rem !important;
+  right: 1rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: calc(100% - 2rem) !important;
+  max-width: 398px !important;
+  z-index: 9999 !important;
+  pointer-events: auto !important;
+}
+
