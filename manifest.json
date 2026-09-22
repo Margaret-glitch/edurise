@@ -1,0 +1,54 @@
+{
+  "name": "EduRise",
+  "short_name": "EduRise",
+  "description": "EduRise mobile learning platform with interactive course dashboard.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2e04f8",
+  "theme_color": "#2e04f8",
+  "icons": [
+    {
+      "src": "https://cdn.phototourl.com/free/2026-09-09-69cae587-1b1c-4e6b-9960-617a3fcd8b50.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "My Courses",
+      "short_name": "Courses",
+      "description": "View your enrolled courses",
+      "url": "/?view=my-courses",
+      "icons": [
+        {
+          "src": "https://cdn.phototourl.com/free/2026-09-09-69cae587-1b1c-4e6b-9960-617a3fcd8b50.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Discover",
+      "short_name": "Discover",
+      "description": "Discover new courses",
+      "url": "/",
+      "icons": [
+        {
+          "src": "https://cdn.phototourl.com/free/2026-09-09-69cae587-1b1c-4e6b-9960-617a3fcd8b50.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard",
+      "short_name": "Dashboard",
+      "description": "Go to your dashboard",
+      "url": "/?view=dashboard",
+      "icons": [
+        {
+          "src": "https://cdn.phototourl.com/free/2026-09-09-69cae587-1b1c-4e6b-9960-617a3fcd8b50.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
